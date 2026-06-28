@@ -161,16 +161,7 @@ Provide business leaders with a centralized dashboard for monitoring key perform
 ---
 
 # 6. Screenshots / Demos
+Show what the dashboard looks like. Example:
 
-## Dashboard Preview
-
-*(Add your Power BI dashboard screenshot here)*
-
-Example:
-
-`dashboard.png`
-
-or
-
-`Walmart_Sales_Dashboard.png`
+https://github.com/sadnyali-rajguru/Walmart-Superstore-Sales-Analysis/blob/main/walmart%20sales%20and%20profit%20dashboard.png
 
