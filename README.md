@@ -163,5 +163,5 @@ Provide business leaders with a centralized dashboard for monitoring key perform
 # 6. Screenshots / Demos
 Show what the dashboard looks like. Example:
 
-https://github.com/sadnyali-rajguru/Walmart-Superstore-Sales-Analysis/blob/main/walmart%20sales%20and%20profit%20dashboard.png
+https://github.com/sadnyali-rajguru/Walmart-Superstore-Sales-And-Profit-Analysis/blob/main/Sales%20and%20Profit%20dashboard.png
 
